@@ -1,1 +1,1 @@
---ex_index=1 --device_id=0 --epoch_num=100 --corpus_type=new_custom --ensure_corres --ensure_rel
+python train.py --ex_index=1 --device_id=0 --epoch_num=100 --corpus_type=new_custom --ensure_corres --ensure_rel
